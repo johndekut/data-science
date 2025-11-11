@@ -1,0 +1,7 @@
+{
+  "strip_output": true,
+  "keep_output": false,
+  "drop_empty_cells": true,
+  "keep_count": false,
+  "extra_keys": ["metadata", "outputs", "execution_count"]
+}
